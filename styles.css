@@ -55,6 +55,7 @@ main {
 .technology-content-box {
     width: 45%;
     text-align: justify;
+    font-size: 1.2em; /* Increase font size for technology page content */
 }
 
 h1 {
