@@ -8,8 +8,19 @@ body {
 }
 
 header {
-    background-color: #4ac;
     padding: 1rem;
+}
+
+.home-header {
+    background-color: #4ac;
+}
+
+.technology-header {
+    background-color: #5bd;
+}
+
+.about-header {
+    background-color: #6ce;
 }
 
 nav {
